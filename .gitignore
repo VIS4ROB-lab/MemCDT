@@ -1,3 +1,20 @@
+###########################################
+# CUSTOM
+
+# Data and output directories
+pretrained/
+data/
+work_dirs/
+
+# Pytorch
+*.pth
+
+# Editor configs
+.vscode/
+
+###########################################
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
